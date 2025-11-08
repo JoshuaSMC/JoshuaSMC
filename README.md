@@ -1,4 +1,6 @@
 # Hola, soy Joshua Sanchez McLeish 👋
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Apple](https://img.shields.io/badge/Apple-000?style=for-the-badge&logo=apple&logoColor=white)
 
 Front End Junior | Estudiante Full Stack | Apasionado por crear interfaces funcionales y experiencias digitales con propósito.
 
