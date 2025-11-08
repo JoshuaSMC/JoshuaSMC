@@ -12,7 +12,7 @@ Soy un desarrollador Front End Junior, motivado por diseñar sitios web estétic
 - **Frontend:** HTML5, CSS3, JavaScript, React  
 - **Diseño:** UX/UI, diseño de interfaces funcionales  
 - **Herramientas:** Git, GitHub, Netlify, VS Code  
-- **Aprendizaje continuo:** Node.js, bases de datos, optimización de sitios web
+- **Aprendizaje continuo:** JAVA, bases de datos, optimización de sitios web
 
 
 ## Proyectos destacados 📂
