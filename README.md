@@ -1,13 +1,11 @@
 # Hola, soy Joshua Sanchez McLeish 👋
 Front End Junior | Estudiante Full Stack | Apasionado por crear interfaces funcionales y experiencias digitales con propósito.
 
----
 
 ## Sobre mí :ringed_planet:
 
 Soy un desarrollador Front End Junior, motivado por diseñar sitios web estéticos y útiles que resuelvan problemas reales. Actualmente estudio JAVA y bases de datos para avanzar hacia Full Stack Development. Me gusta aprender constantemente y enfrentar nuevos desafíos que me permitan mejorar mis habilidades y entregar valor a proyectos reales.
 
----
 
 ## Tecnologías y habilidades 💻
 
@@ -16,7 +14,6 @@ Soy un desarrollador Front End Junior, motivado por diseñar sitios web estétic
 - **Herramientas:** Git, GitHub, Netlify, VS Code  
 - **Aprendizaje continuo:** Node.js, bases de datos, optimización de sitios web
 
----
 
 ## Proyectos destacados 📂
 
@@ -26,7 +23,6 @@ Soy un desarrollador Front End Junior, motivado por diseñar sitios web estétic
 
 > Estos proyectos reflejan mi enfoque en interfaces funcionales, experiencia de usuario y aprendizaje práctico constante.
 
----
 
 ## Contacto ✉️
 
@@ -35,7 +31,6 @@ Soy un desarrollador Front End Junior, motivado por diseñar sitios web estétic
 - **Email:** jesm.1925@gmail.com  
 - **Netlify (proyectos en producción):** [Netlify Projects](https://www.netlify.com)  
 
----
 
 ## Mis objetivos 🎯
 
