@@ -1,5 +1,4 @@
-# Hola, soy Joshua Sanchez McLeish :last_quarter_moon_face:
-
+# Hola, soy Joshua Sanchez McLeish 👋
 Front End Junior | Estudiante Full Stack | Apasionado por crear interfaces funcionales y experiencias digitales con propósito.
 
 ---
