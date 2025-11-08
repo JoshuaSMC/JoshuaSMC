@@ -6,7 +6,7 @@ Front End Junior | Estudiante Full Stack | Apasionado por crear interfaces funci
 
 ## Sobre mí
 
-Soy un desarrollador Front End Junior, motivado por diseñar sitios web estéticos y útiles que resuelvan problemas reales. Actualmente estudio React, Node.js y bases de datos para avanzar hacia Full Stack Development. Me gusta aprender constantemente y enfrentar nuevos desafíos que me permitan mejorar mis habilidades y entregar valor a proyectos reales.
+Soy un desarrollador Front End Junior, motivado por diseñar sitios web estéticos y útiles que resuelvan problemas reales. Actualmente estudio JAVA y bases de datos para avanzar hacia Full Stack Development. Me gusta aprender constantemente y enfrentar nuevos desafíos que me permitan mejorar mis habilidades y entregar valor a proyectos reales.
 
 ---
 
@@ -40,7 +40,8 @@ Soy un desarrollador Front End Junior, motivado por diseñar sitios web estétic
 
 ## Mis objetivos
 
-- Consolidarme como Full Stack Developer.  
+- Consolidarme como Full Stack Developer.
+- Empezar Data Analyst.  
 - Seguir aprendiendo nuevas tecnologías y frameworks.  
 - Crear proyectos funcionales y estéticos que aporten valor a usuarios y empresas.
 
