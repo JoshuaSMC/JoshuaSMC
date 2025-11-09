@@ -17,12 +17,15 @@ Soy un desarrollador Front End Junior, motivado por diseñar sitios web estétic
 
 ## Proyectos destacados 📂
 
-- [Red Social JS](https://github.com/JoshuaSMC/red-social-javascript) – Proyecto de red social desarrollado con JavaScript puro.  
-- [Weather App](https://github.com/JoshuaSMC/weather-app) – Aplicación del clima usando la API de OpenWeather.  
-- [Portafolio personal](https://www.joshuasmc.com) – Mi sitio profesional donde muestro proyectos y habilidades.  
+- [Carrito de Compras React](https://github.com/JoshuaSMC/proyecto-final-carrito-compras-react) – Aplicación de e-commerce con gestión de productos, carrito dinámico y componentes reutilizables.   
 
-> Estos proyectos reflejan mi enfoque en interfaces funcionales, experiencia de usuario y aprendizaje práctico constante.
+- [Aplicación de Películas en React](https://github.com/JoshuaSMC/aplicacion-peliculas-react) – App que consume APIs para mostrar películas, detalles y filtrados.  
 
+- [Aplicación del Clima en React](https://github.com/JoshuaSMC/aplicacion-clima-react) – App que utiliza la API de OpenWeather para mostrar el clima actual de cualquier ciudad.  
+
+- [Red Social con JavaScript](https://github.com/JoshuaSMC/red-social-javascript) – Proyecto desarrollado con JavaScript puro, enfocado en estructura, lógica y manejo del DOM.  
+
+> Estos proyectos muestran mi evolución técnica, mi enfoque en interfaces funcionales y mi capacidad de construir soluciones completas tanto en JavaScript puro como en React.
 
 ## Contacto ✉️
 
