@@ -23,22 +23,22 @@ Soy un desarrollador Front End Junior, motivado por diseñar sitios web estétic
 
 - [Aplicación del Clima en React](https://github.com/JoshuaSMC/aplicacion-clima-react) – App que utiliza la API de OpenWeather para mostrar el clima actual de cualquier ciudad.  
 
-- [Red Social con JavaScript](https://github.com/JoshuaSMC/red-social-javascript) – Proyecto desarrollado con JavaScript puro, enfocado en estructura, lógica y manejo del DOM.  
+- [Pagina personal con React](https://github.com/JoshuaSMC/joshua-smc-pagina-personal-react) – Sitio web desarrollado con React y TailwindCSS que presenta mis proyectos, certificaciones, servicios y una sección motivacional con animaciones modernas.
 
 > Estos proyectos muestran mi evolución técnica, mi enfoque en interfaces funcionales y mi capacidad de construir soluciones completas tanto en JavaScript puro como en React.
 
 ## Contacto ✉️
 
-- **Sitio personal:** [joshuasmc.com](https://www.joshuasmc.com)  
-- **LinkedIn:** [linkedin.com/in/joshuasmc](https://linkedin.com/in/joshuasmc)  
-- **Email:** jesm.1925@gmail.com  
-- **Netlify (proyectos en producción):** [Netlify Projects](https://www.netlify.com)  
+- **Sitio personal:** [joshua-smc](https://joshua-smc.netlify.app/)  
+- **LinkedIn:** [linkedin.com/in/joshua-sanchez-mc-leish/](https://www.linkedin.com/in/joshua-sanchez-mc-leish/)  
+- **Email:** joshuasmcleish@gmail.com  
+- **Netlify (proyectos en producción):** [Netlify Projects](https://app.netlify.com/teams/joshuasmc/projects?global=true)  
 
 
 ## Mis objetivos 🎯
 
 - Consolidarme como Full Stack Developer.  
-- Empezar Data Analyst.  
+- Formarme en Data Analyst.  
 - Seguir aprendiendo nuevas tecnologías y frameworks.  
 - Crear proyectos funcionales y estéticos que aporten valor a usuarios y empresas.
 
