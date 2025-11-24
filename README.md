@@ -23,7 +23,7 @@ Soy un desarrollador Front End Junior, motivado por diseñar sitios web estétic
 
 - [Aplicación del Clima en React](https://github.com/JoshuaSMC/aplicacion-clima-react) – App que utiliza la API de OpenWeather para mostrar el clima actual de cualquier ciudad.  
 
-- [Pagina personal con React](https://github.com/JoshuaSMC/joshua-smc-pagina-personal-react) – Sitio web desarrollado con React y TailwindCSS que presenta mis proyectos, certificaciones, servicios y una sección motivacional con animaciones modernas.
+- [Sitio Web Personal con React](https://github.com/JoshuaSMC/joshua-smc-pagina-personal-react) – Sitio web desarrollado con React y TailwindCSS que presenta mis proyectos, certificaciones, servicios y una sección motivacional con animaciones modernas.
 
 > Estos proyectos muestran mi evolución técnica, mi enfoque en interfaces funcionales y mi capacidad de construir soluciones completas tanto en JavaScript puro como en React.
 
