@@ -91,9 +91,4 @@ Pipeline CI/CD completo con GitHub Actions, deploy automático a AWS ECS Fargate
 * Testing automatizado y calidad de software.
 * Bases de datos escalables y NoSQL.
 
----
-
-## GitHub Stats
-
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaSMC&show_icons=true&theme=dark&hide_border=true)
 
