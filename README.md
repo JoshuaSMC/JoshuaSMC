@@ -56,7 +56,7 @@ Plataforma full stack de reservas de vuelos con gestión de vuelos, reservas, re
 
 `Spring Boot` · `MySQL` · `JWT` · `Spring Mail` · `Selenium` · `Allure Reports`
 
-[→ Ver repositorio](https://github.com/JoshuaSMC/flight-booking-platform-spring-react) | [🌐 Frontend](https://stellarjets.netlify.app) | [🌐 API](https://stellar-jets-production.up.railway.app/swagger-ui.html)
+[→ Ver repositorio](https://github.com/JoshuaSMC/flight-booking-platform-spring-react) | [🌐 Demo](https://stellarjets.netlify.app) | [📄 Swagger](https://stellar-jets-production.up.railway.app/swagger-ui.html)
 
 ---
 
