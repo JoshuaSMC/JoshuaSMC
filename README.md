@@ -1,6 +1,6 @@
 # Joshua Sanchez McLeish
 
-**Backend Developer | Java + Spring Boot**
+**Backend Developer Junior | Java + Spring Boot**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joshua--sanchez--mc--leish-0A66C2?logo=linkedin)](https://www.linkedin.com/in/joshua-sanchez-mc-leish/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-joshua--smc.netlify.app-46E3B7?logo=netlify)](https://joshua-smc.netlify.app/)
